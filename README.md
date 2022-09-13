@@ -1,2 +1,2 @@
 # Hand-Written-Digit-Classifier
-Build a model on classic mnist dataset that the digit between 0-9 
+Build a model on classic mnist dataset that can classify the digit between 0-9 
